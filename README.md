@@ -84,6 +84,53 @@ class Developer {
 
 ---
 
+### 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/nitixhhh/EdgePanel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitixhhh&repo=EdgePanel&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0a0a0a&title_color=00d4ff&icon_color=00d4ff" alt="EdgePanel" width="480" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+  <a href="https://github.com/nitixhhh/EdgePanel/raw/main/apk/EdgePanel_v3.apk">
+    <img src="https://img.shields.io/badge/Download_APK-v3.0-00d4ff?style=flat-square&logo=android&logoColor=white&labelColor=1a1a1a" alt="Download APK" />
+  </a>
+  <a href="https://github.com/nitixhhh/EdgePanel/releases/latest">
+    <img src="https://img.shields.io/github/v/release/nitixhhh/EdgePanel?style=flat-square&color=00d4ff&labelColor=1a1a1a&label=release" alt="Latest release" />
+  </a>
+  <p>📱 <b><a href="https://github.com/nitixhhh/EdgePanel">EdgePanel</a></b>: an iOS-style liquid-glass edge panel for Android. Volume, brightness, ringer, DND, torch, music, battery & quick apps one swipe from the screen edge, with spring animations, 4 themes, haptics and sounds.</p>
+</div>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>About</th>
+      <th>Stack</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nitixhhh/v0.5"><b>🧠 DevStudio AI</b></a><br><sub>v0.5</sub></td>
+      <td>Agentic, liquid-glass desktop IDE: multi-provider AI agents, Monaco editor, real terminals and a Telegram remote-control gateway</td>
+      <td><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nitixhhh/nural-network"><b>🔤 OCR Neural Network</b></a><br><sub>nural-network</sub></td>
+      <td>PyTorch CNN that reads digits (MNIST) and 85 character classes using a font-synthesized dataset, with a Flask web app for predictions</td>
+      <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nitixhhh/phoneOs_agent"><b>🤖 phoneOs_agent</b></a></td>
+      <td>🚧 Work in progress, coming soon</td>
+      <td>-</td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### 📊 GitHub Analytics
 
 <div align="center">
